@@ -10,7 +10,7 @@ Scratch block repository: https://github.com/scratchfoundation/scratch-blocks/
 
 Later, you can export your project to an executable with the electron and phonegap build API.
 
-### to do:
+### to do: (edited by gingerninjastickdudeworld)
 
 - Finish Blockly Modification and blocks_javascript.js
 - Implément UI scene editor
@@ -18,12 +18,12 @@ Later, you can export your project to an executable with the electron and phoneg
 - Implément 3D Editor
 - Implément Paint Editor
 - Implément Texturing Editor
-- Implément Physic
-- Implément Sounds
+- Implément Physic (working on one with a threeJS library I found)
+- Implément Sounds (done)
 - Implément Animations
 - Implément Custom Procedure
-- Implément Web Request
-- Implément FPS exemple
-- Implément Simple Multiplayer
-- Implément Save and Build
+- Implément Web Request (think theres a pm extension that does this so I'll add it)
+- Implément FPS exemple (I guess I could make this idk)
+- Implément Simple Multiplayer (cloudlink does it)
+- Implément Save and Build (gotta do files first)
 - Implément auther languages
